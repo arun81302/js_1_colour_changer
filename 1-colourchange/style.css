@@ -1,0 +1,41 @@
+html{
+      height: 100%;
+      width: 100%;
+}
+body{
+      height: 100%;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+.outercontainer{
+      border: 1px solid black;
+      width: 800px;
+}
+.container{
+      display: flex;
+}
+.box{
+      height: 150px;
+      width: 150px;
+      margin: 20px;
+      border: 1px solid black;
+}
+#brown{
+      background-color: brown;
+}
+#aqua{
+      background-color: aqua;
+}
+#grey{
+      background-color: grey;
+}
+#blue{
+      background-color: blue;
+}
+p{
+      text-align: center;
+      font-size: 1.3em;
+      font-weight: bold;
+}
